@@ -1,0 +1,26 @@
+{
+  "name": "Maud Alvarez",
+  "age": 53,
+  "address": {
+    "street": "Tirun Drive",
+    "city": "Vupuar",
+    "state": "MN",
+    "zip": "00805"
+  },
+  "contact": {
+    "phone": "(631) 919-7833",
+    "servicePhone": "800116947"
+  },
+  "birthday": "1973-08-16T09:02:51.866Z",
+  "ip": "210.213.171.59",
+  "foo": "bar",
+  "profile": {
+    "about": "Ka buecama rif nobiz uwo vez en ecilofun bilzuhivi kaduf po bo korbuv. Vowko kumal becewaf viubjof jeg waz gutu offi hafuh dij orbizto tifahhi. Mij fafvu pev uler lo agi joguac fijjur udeno gev bubfi kot pe bakaan nuap tafso. Vemo figosal fe muvim ur da te ukeju vetwu cobepo uw ja diazige hennupat lakvijob lum elo merlu.",
+    "bio": "Rehmam to jofcefe malce pumep et or cuzfip ejinij becat kuhkuv iwihaow ezi toesanog vek. Dul fel sis behzo tab lubeg dehla aveniw hirurno mi let febkidojo foohlib ru aphohni. Mempail bampurer tuzeluum wu jiw siga idlos kewvecege oru ne gef migcit. Beni cacav li jeloni ozetem hapgug oj zefepo ko ahoud nicozuc div."
+  },
+  "apiKey": "e99f84829fa7d676d89dc4105c8c946e44c2dd361c876824dcfa11bc3a58ee47",
+  "currency": {
+    "code": "BDT",
+    "name": "Bangladesh Taka"
+  }
+}
