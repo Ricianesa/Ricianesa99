@@ -1,0 +1,26 @@
+{
+  "name": "Harry Vargas",
+  "age": 31,
+  "address": {
+    "street": "Kive Heights",
+    "city": "Buinulat",
+    "state": "NC",
+    "zip": "09443"
+  },
+  "contact": {
+    "phone": "(810) 892-9614",
+    "servicePhone": "800758433"
+  },
+  "birthday": "1989-11-08T07:01:28.238Z",
+  "ip": "223.92.3.216",
+  "foo": "bar",
+  "profile": {
+    "about": "Obtat guw jaorbiw duvsu hof dobani zena juzcu mi sazi tirufde huf duka herco mok. Ehonic jen zeojpo nuwij reuje wirein pemevzor el evuis saej go koezitac id bulo kakso. Juniz sopcufke loz lemo fe rujjibsuj le vaw tehmedim bu licju leji al. Miwit higsol ehjapwu uwi notge jep fanbaw zabmib ojcal upcu ekebil udehi. Pajsic ib wat bom gus tokmu zodmefuk bufkohsub lu kufimtib oco vinikeho bosda lav. Pono se buhro di ecedaful ludfifcun gevmeb ce tu inicudep vilgaize azakub lo.",
+    "bio": "Hav hirtohuzu jarwese pefucowol owdeh puwimova rijaze ol uwtab pe filiv aslabger. Gihut radoc pi nob pigjipde soped geriwmok amu fujfoh welif pazabo ihiafpoh. Ji da zanawfo fobwo koid ipegu fuwcil topup roob kivuto comfeuto pew wig."
+  },
+  "apiKey": "7e85b077c8da3c501a228190d1ee6679492953f9407505a9584949b1e58f7fed",
+  "currency": {
+    "code": "PAB",
+    "name": "Panama Balboa"
+  }
+}
