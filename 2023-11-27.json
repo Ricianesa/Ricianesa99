@@ -1,0 +1,26 @@
+{
+  "name": "Bertha Todd",
+  "age": 53,
+  "address": {
+    "street": "Keva Road",
+    "city": "Tionide",
+    "state": "NV",
+    "zip": "37585"
+  },
+  "contact": {
+    "phone": "(506) 371-9947",
+    "servicePhone": "800777796"
+  },
+  "birthday": "1973-12-22T09:44:45.144Z",
+  "ip": "90.244.101.163",
+  "foo": "bar",
+  "profile": {
+    "about": "Womutgap heedivu gavrezfap teoceimu pepaap riv ro lejon nejigeco egi bit rajziz lu. Tob bunwa zaz tifjofa wesdu poljavuz ec tafatguh faw noic tu poca pelat sestun. Loscowir usopaluc fekumzi tabokgi runibin ojcos ug caogetoc ukunujit lo puh kab sof.",
+    "bio": "Coalocop golvalse hoksozik en ge japkuhke ga wessih migu mek welo wicsozke pekdugim rugdi ekunudem. Awomesor neadabu huj bocizaw omo rowka abirioc sip egovevbid sitbed jud fobazape jugda vibiguf pag. Usze ob gousepon zidko izigepo hi tazrap gah wel woto zuvfakor careciv leforfop dompatli esobob vo jaosja ehnuz. Pa fac geha lobuh bigopu zusukagol rewop wobfov ewju hahto hus zi lo. Lilmi tocesa veseha zibu bod lara fu atta naku obnema jizuoru vamja am zufugdi mohca pu ja we. Najmew agewezi cikep nemid fazgu molhudim fopmijwov ec gednaca tazru goditvic wov zuwha timwop."
+  },
+  "apiKey": "77cc07ccab0b9a54f155929d9e646c6e9a95687de3c6cc2dcf00e958ad448f62",
+  "currency": {
+    "code": "DZD",
+    "name": "Algeria Dinar"
+  }
+}
