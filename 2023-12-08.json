@@ -1,0 +1,26 @@
+{
+  "name": "Elnora Sanders",
+  "age": 31,
+  "address": {
+    "street": "Mupin Heights",
+    "city": "Pudzoru",
+    "state": "LA",
+    "zip": "12594"
+  },
+  "contact": {
+    "phone": "(633) 521-2062",
+    "servicePhone": "800879611"
+  },
+  "birthday": "1977-02-20T20:41:36.101Z",
+  "ip": "199.232.19.104",
+  "foo": "bar",
+  "profile": {
+    "about": "Fazlo mul zagzimler vuuvaulo ut lobohig osvo unzif ide ofkuzat ri nulzul ol nocja neerepid. Ojora jamje ge rut iwze jar cille datoma ozcedri hub vekgip hir. Wo fuvif sic ondisap warzeohu ro azu mesba boeza bugoz gafwi lagdon zefup arecu onierifi dib.",
+    "bio": "Nizih ejni were hufiwmul ju ti jabnek se urinih suwava koleltid kifu ofofikroc muse sitgifvo se awdimuw osu. Lig zurit iwusaw etekiecu nowu pazbe pop sas izusese misceona ujidi cadriwto juznuves. Eji pugokir duhzen lijom tacel duic ri jiwu vobke zotebdo heri li segus ga olosi kuh."
+  },
+  "apiKey": "56eda1e9742442f7b6b563f4bf0673cda6f69a69d96250e90937431b4d819ca5",
+  "currency": {
+    "code": "NAD",
+    "name": "Namibia Dollar"
+  }
+}
