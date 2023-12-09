@@ -1,0 +1,26 @@
+{
+  "name": "Viola Nichols",
+  "age": 18,
+  "address": {
+    "street": "Vaufi Trail",
+    "city": "Kunapga",
+    "state": "FL",
+    "zip": "05202"
+  },
+  "contact": {
+    "phone": "(507) 621-8493",
+    "servicePhone": "800748628"
+  },
+  "birthday": "1973-11-20T06:07:08.649Z",
+  "ip": "173.76.124.176",
+  "foo": "bar",
+  "profile": {
+    "about": "Orvel dezoh cej ubgadpiv huwlecezu wakuvi kowgod berewlar lafez kag heb wew ejeme ajezakkal ci ehwin. Lizueki ospe wunlapek fe ca em efu mos ehe te jualzi hi banwuza agacun dazuni zoftupi wop zowti. Oslar amcisen rez jedigihe la jopep duvi recagide gozfika ci of le weguwezub ed supa od.",
+    "bio": "Ubuvorbo ke hovpi ated do tir li ensazov suher ovozamci itgaoh feogson mucumu. Vatzisge rin sumvemub ci hejifsub ef se acevif kaojzom gaso idamis cien huf. Bocesu aducus ko ehulafzo reri avoadu je sowu zo wak wuluno loszogtuc."
+  },
+  "apiKey": "65e1f0823ceeadc348b403b47386d692ef003290ae1ec98c3314889c0eb3dd0a",
+  "currency": {
+    "code": "BWP",
+    "name": "Botswana Pula"
+  }
+}
