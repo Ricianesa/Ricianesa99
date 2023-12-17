@@ -1,0 +1,26 @@
+{
+  "name": "Amanda Blake",
+  "age": 23,
+  "address": {
+    "street": "Hura Loop",
+    "city": "Mazapba",
+    "state": "RI",
+    "zip": "57916"
+  },
+  "contact": {
+    "phone": "(346) 731-8348",
+    "servicePhone": "800963659"
+  },
+  "birthday": "1968-04-30T17:35:09.932Z",
+  "ip": "223.224.122.22",
+  "foo": "bar",
+  "profile": {
+    "about": "Ikgid jowu uwkuceh vu sic rot hozucja zu onobeso fuh taicra dagpofkaw fifel ko. Mufrugol etzomdan kinogafer godupcok sujvo ho zam peh cew vom osopilde wubvez vufvace mekmisvoj sutgut osa diwi buj. Emeucgac apa carto seuzi hoppug fignejroh tehzekmo edo baomto ohe du fus bawapinik.",
+    "bio": "Kosaj ekovuh fodmoci upezelge ziccon la behi be leksiv no hun ka obefed fi sobvomoz pi ucorasno. Dukoper mofeha ol vo iheawudic kiir jodfiw beba ipoginu roep hojdim iz reg ka wafced fuofumaw nazosem ha. Cesihi hubmi kijiv adgew samcuhu diavlek boge uweed sih odi de zelfe ge tovpid da ehiave."
+  },
+  "apiKey": "4a025263b0ab4ae546ce99044d0e0f0a8a2d2a512278af5dab1480487c46b83b",
+  "currency": {
+    "code": "TJS",
+    "name": "Tajikistan Somoni"
+  }
+}
