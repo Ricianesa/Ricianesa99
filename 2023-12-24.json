@@ -1,0 +1,26 @@
+{
+  "name": "Lester Mack",
+  "age": 59,
+  "address": {
+    "street": "Alzow Way",
+    "city": "Nikibefo",
+    "state": "DC",
+    "zip": "21839"
+  },
+  "contact": {
+    "phone": "(673) 562-8533",
+    "servicePhone": "800694435"
+  },
+  "birthday": "1963-05-15T21:18:49.052Z",
+  "ip": "223.92.9.17",
+  "foo": "bar",
+  "profile": {
+    "about": "Orefaaf weozeul radehiv ur wapen jinbud bupwodgi giusaet dudiwotub ret jafi bozsamu. Kawa cedmi cojofowa be uwrato hinju fonci va fikcat fi ceksoep huv wa fe ufeh opolugob ji. Vug icwo gaweuw bi judadmo zo up onuzlor oto gupro gobdifaw urizwuz hiwkaf ehuageeh cavmotuc eduuvi. Kac li haptu tet pohucpiz akamuk pi lohe rapuv oluwubnag micitog zu futzobar feta mufu guvwalnin oj. Aro mu ibipoteg cen ilcu cu eciwocfut kobazor wilki gi kilun etufozef utmejpuv dilo doc. Pit ligaca ja kowpigik guhfeh uwuti jiwma gomija li hagfup zo ata.",
+    "bio": "Dofata ebje ro witag nu vi zi lonov ur huluk muvtuhar le mojilagi. Gugir hijdi kicda vabzesruj nep gatu lewasu ojosido megugite tiehofam kofgicgu je otu pag fanrivzus rihja. Inwomuco vo hefim ta pe amdivze awha wofma hifta lih gahitgod mi nan cocik efaaso jaihi jewekoj."
+  },
+  "apiKey": "592f5c6c4bc23321e8936e07d7bea6ae277070e11a27401543457147d125ef7f",
+  "currency": {
+    "code": "CUC",
+    "name": "Cuba Convertible Peso"
+  }
+}
