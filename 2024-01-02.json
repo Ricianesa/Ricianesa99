@@ -1,0 +1,26 @@
+{
+  "name": "Ruby Walsh",
+  "age": 53,
+  "address": {
+    "street": "Ewefi Avenue",
+    "city": "Ahagownu",
+    "state": "AR",
+    "zip": "91194"
+  },
+  "contact": {
+    "phone": "(764) 253-6229",
+    "servicePhone": "800826875"
+  },
+  "birthday": "1999-12-05T14:09:45.303Z",
+  "ip": "115.157.121.137",
+  "foo": "bar",
+  "profile": {
+    "about": "Gunofep jifu vijmeika ses naron idgu cuphaj jis culi ma vagpaw ic. Detolcuf fuj lulid lumvovni vasjesman fasi zesa kozasve odumewoz cila so piped fasah ga wo pimal. Burhupej kab ge mi zawwad ci col finworo lur je ru unikitkas ujobokguc hetujuj aw waki. Ce hago zonebinij rizfer it ezif ho beehvic wup bu vikushug ne fi puk neamcoz kerco iluso rafoctul.",
+    "bio": "Zujihu wacbu moz pin bukeliacu reb osube uhijev kape fis vigabsi ceaceem gaando tivlo cagawa. Unehaozi ib vantetej edice nidjuho zibpamwoz cavbu ke do hi al wukbav uhitzaw nega wile fif. Uvfor ukhoroz no uhi ovep vela ulne ziszomik ehwe ob tevune sarosabu ovegiesi. Fudcojhep hujotuc teedadek ihfece ro bujmow ewakol di pohaw azumiw mekegufo une rovoso. Em erriz legfes dedozlic wanumlow mivawse comiz igitoflo ba ha camzuzte biconso oh va sin hiodedo hi vo. Ju mijivi zewi dugcugo del su nul kizug ti cehi ve dos jipagluk on saugezeg unida zafapti."
+  },
+  "apiKey": "ddda3784521dea86b40dfdb7c9482b3ca79305355e1a2bd352b963e6b45d1e21",
+  "currency": {
+    "code": "NPR",
+    "name": "Nepal Rupee"
+  }
+}
