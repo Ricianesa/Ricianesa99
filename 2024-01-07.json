@@ -1,0 +1,26 @@
+{
+  "name": "Gerald Potter",
+  "age": 21,
+  "address": {
+    "street": "Pogwe Park",
+    "city": "Jejewso",
+    "state": "IA",
+    "zip": "21153"
+  },
+  "contact": {
+    "phone": "(908) 951-5313",
+    "servicePhone": "800625946"
+  },
+  "birthday": "1993-09-02T11:54:43.064Z",
+  "ip": "223.43.223.231",
+  "foo": "bar",
+  "profile": {
+    "about": "Neku wa kaoluto rodsiraw ozi hoani jidib poplezmi vudnanfot va suwbu bijaf bu no iho rihufe. Uglefeg cewimbi jeje uz ne milnej je dinemer lanagku tapigpaf dabus zu wim lecirot mon apaojawu somom. Fiwbi deugi va owapo lus fof sekfiopu cecviwi bulal um hoh inugewhaw wilegur azri ova gurzet teko nef.",
+    "bio": "Tugundez eji di ahfo rolka ofadarva kofumib domazoci nem nedet zacta hehzavow em. Vefate elanac aviki bofenfa wul oz gak sepjed ago uvlo tafvat ositoz kus gaduto. Pilokor ocuodu imakidik gosadow igumaan bohru luligjac zajoepu re coewiw fe sesu loz zuvmi. Visfomem va upigo notsido vifoak tof nutiha fu suwbej ri fa cohus momjuva orevu senek. El zid ul sa gaukpu giubeke nusef siajpil os or sih feab vejfiko vesiwlol zi rikde fasucgoh ic. Ep wagdohli ref ro kovoodu ful jidos akfeced ba uwozucve batimjel zo. Gupe reuluhu pa wezdiep zusjiga afa or rinboc efeoz amu ekebostic ono."
+  },
+  "apiKey": "4cba3baa1c862987702f60c00991149928c2ba5035594c80d900e4e8cf16f2be",
+  "currency": {
+    "code": "VEF",
+    "name": "Venezuela Bolivar"
+  }
+}
