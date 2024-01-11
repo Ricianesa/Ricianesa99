@@ -1,0 +1,26 @@
+{
+  "name": "Irene Ray",
+  "age": 45,
+  "address": {
+    "street": "Ewian Drive",
+    "city": "Cezuwo",
+    "state": "MO",
+    "zip": "87852"
+  },
+  "contact": {
+    "phone": "(942) 389-4291",
+    "servicePhone": "800291476"
+  },
+  "birthday": "1997-01-27T23:18:35.542Z",
+  "ip": "159.76.141.233",
+  "foo": "bar",
+  "profile": {
+    "about": "Abu cufez usabuleru ak viodoat ci bidre oljod ejegab buhgabo iha mibsu vikzuc beijefek zohcoznun erahihku. Eveozpe om zehhobe aknuij fikaj bi utvel je pav jejhiigo zizvamos pugcacvab ahifout je lut je lunwev. Luhib ectawba urov civnonvew gostuuh mafam ta deju di doj luowotan nanwicu eg zik campawse gewtam.",
+    "bio": "Je si tolru og ga do uhcowu tebim ben hi tehagi jir hepawmab. Up noba fi zubug diz nu ehebosfej wicig tevi rufma kuzilejuh muorve guncojco lemen ubuogouh. Jacut mog ze ewze wajvic agziwi cuvisis ne vatiti jive ipavik fa devoro oczogun ohahuzi abigoila wobtodih."
+  },
+  "apiKey": "8e17fc0eea35f05937781be5f061c0003d2191243713da8300048f3b452a40bd",
+  "currency": {
+    "code": "LSL",
+    "name": "Lesotho Loti"
+  }
+}
