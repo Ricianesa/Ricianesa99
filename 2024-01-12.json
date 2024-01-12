@@ -1,0 +1,26 @@
+{
+  "name": "Keith Waters",
+  "age": 64,
+  "address": {
+    "street": "Wewafi Loop",
+    "city": "Pemefbuf",
+    "state": "NY",
+    "zip": "45590"
+  },
+  "contact": {
+    "phone": "(628) 862-5825",
+    "servicePhone": "800974431"
+  },
+  "birthday": "1985-10-02T10:25:05.084Z",
+  "ip": "125.198.130.250",
+  "foo": "bar",
+  "profile": {
+    "about": "Bu tik kisu temavgu sol ol al go wob javov oka go hegefo mipmirra. Waj vozelo ti tal miwcehuw si kapajnir ejeje adi sihcul delupmo igimi ed jihrupuz bo gan vas. Pec ozikokic udmol nadin ve sejsa su vo fe jen mivwakec ohacoge. Dejteciw je ahovfu irhenvuh ruv reshun hetocev ri ebiwidwu empaczap watof va pijpegem kuw vog hu dosna ruk. Hikasmag johifcu nanizuut dezwunow zo veegajif jez apo owa wifohlom vopene geceg.",
+    "bio": "Uga ra oh tuno og tim evvakum acuwu tardoef dik cu ujoobvow jimbu wom towug tijompak. Tim ganuta fotan pesigbe sa evojacu doat muc ojwubjot rerti sulko apoleara cawtidto giz wip hitgo keongop uzhatoc. Pomvi bugiwno aztun or gezbizgu gajuwog doab dum luc homtago macpo homo nuinavo ciomje."
+  },
+  "apiKey": "1655e97f9a609f0f60163a9778d0543d37975b0944971372ca6feab0bb7354e3",
+  "currency": {
+    "code": "CNY",
+    "name": "China Yuan Renminbi"
+  }
+}
