@@ -1,0 +1,26 @@
+{
+  "name": "Francis Davis",
+  "age": 19,
+  "address": {
+    "street": "Zeza Turnpike",
+    "city": "Osajouk",
+    "state": "CO",
+    "zip": "39237"
+  },
+  "contact": {
+    "phone": "(774) 738-7500",
+    "servicePhone": "800468166"
+  },
+  "birthday": "1983-11-03T01:33:37.288Z",
+  "ip": "96.210.212.193",
+  "foo": "bar",
+  "profile": {
+    "about": "Koj letku jubwo afi cofaune amiuj unzos eshik lijo tajahiw hoh vicenge ev. Wijizfag bibohzo wi sedtawro nuzal acewo boinvut ciril vi nizdofgi zobbas za zo si ij. Vu fotivcu dowzasi ubone colo giitanab rerbito mo wufzub bo unu bat. Ra rede bamete docjabav fov ke cu iteba kiseznus hitgeh hele giv fahibivuk jeknago.",
+    "bio": "Niv mi homkeri ho fe ej udojic ogo poeru uzogaho koluzu ziucijaw. Fu kar rikvonrav hendor awmojuw ezesohzu du ofaej asoju ewo it ukinitiv apan rojo. It zup popgohtol mi litituw wasafelum bowzacse hidcuv focsulopu ha ozwi voorodad su. Gaid ne vug ri nuvcurboh ecu babomi rupseve dazomaba bi sivevozu ezu cejetmu ziaco pooker bis."
+  },
+  "apiKey": "f1b764fd7310035928a085d8175e65b82581ad5790a4e46623be749ee920780c",
+  "currency": {
+    "code": "TJS",
+    "name": "Tajikistan Somoni"
+  }
+}
