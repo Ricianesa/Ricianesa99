@@ -1,0 +1,26 @@
+{
+  "name": "Gertrude Dixon",
+  "age": 19,
+  "address": {
+    "street": "Farmez Junction",
+    "city": "Zobmilit",
+    "state": "TN",
+    "zip": "83155"
+  },
+  "contact": {
+    "phone": "(740) 540-3340",
+    "servicePhone": "800596777"
+  },
+  "birthday": "1982-06-20T09:30:19.605Z",
+  "ip": "93.255.98.154",
+  "foo": "bar",
+  "profile": {
+    "about": "Ibzalce vuwvovor oz hawi ibi dug kipotu aphekete ne voh zer hihodun likdu aflaziz. Uhalajjem giz jefa wavraw aze vuduzu hap ifeik woniwed inuleksoj sovco lohmuwvo sis ovupuc. Odruj kugkuh heat rigfibgiv nemizdib zehotno wosir ogpitucu javgodrew ogi zadoki gen et pus vi rahhejsi.",
+    "bio": "Jodepol jeg voni efo toj ci hokacmal odjep cocmovkir vuv icwuvar zus rucfi. Me jonushi vuzar piivu jizu so vivarcu kiknaoti jothog ciig lowarug sovgi goko pazsetef peupiroz kuare jucvezso. Piotco kumvopa umba jofnu bowgog terdoge acufuse bofopce ba dizkiwre ja gijkis vudvipi."
+  },
+  "apiKey": "5929a415ae1715e99ae90626eaaa2a42c4d7e21208e2428aac99954194be3260",
+  "currency": {
+    "code": "TRY",
+    "name": "Turkey Lira"
+  }
+}
