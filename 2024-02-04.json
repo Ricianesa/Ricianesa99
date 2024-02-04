@@ -1,0 +1,26 @@
+{
+  "name": "Adelaide Malone",
+  "age": 64,
+  "address": {
+    "street": "Cedoc Avenue",
+    "city": "Kebdaus",
+    "state": "MT",
+    "zip": "12795"
+  },
+  "contact": {
+    "phone": "(786) 343-5214",
+    "servicePhone": "800987581"
+  },
+  "birthday": "1994-09-06T11:45:51.715Z",
+  "ip": "103.99.91.159",
+  "foo": "bar",
+  "profile": {
+    "about": "Onokezde ruki zegepamar za ewpuma obnad deif rerogo big faskitawu awivga agro kij facga mid co. Eca pedjip dof domni his ruve kozefzul jop mihesor za cojaza bipo. Fa hejanjuv fifze teb hunmupu lekeb aghezel jomodut ajujiz noisu emoil emfuhzaz po. Fohcu bi zar fal tubimoled ope fowzo neahi dowmis isirenoc osgovek ce ifvebjo da likar.",
+    "bio": "Una etbugu uw negelujo siikhi ju maip gorzura di hedi eneivfi vak viso. Dilvi rukru feppef ofgosho cengeg peige wo nadata komec romi jukkuzob vibwu diozu absu. Meteho mu iso de onuzit wuantad mi vosvoera aguh sovurbog som doppe vuv."
+  },
+  "apiKey": "728e5f94e4087c7db9d8bbf37d197d413b7427d5f684c5d9fb77141a900d8fbb",
+  "currency": {
+    "code": "XCD",
+    "name": "East Caribbean Dollar"
+  }
+}
