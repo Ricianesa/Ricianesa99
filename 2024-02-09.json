@@ -1,0 +1,26 @@
+{
+  "name": "Christian Wells",
+  "age": 42,
+  "address": {
+    "street": "Hali Pike",
+    "city": "Wagije",
+    "state": "NJ",
+    "zip": "58756"
+  },
+  "contact": {
+    "phone": "(605) 988-6438",
+    "servicePhone": "800285251"
+  },
+  "birthday": "1970-12-31T09:11:42.380Z",
+  "ip": "89.53.189.102",
+  "foo": "bar",
+  "profile": {
+    "about": "Jajzeul ra tun uma nup ejeka kapfo wobat ugo zodgasno tepihta kefagon gew. Tijifi ligniccaf hucebub kaucdah bohir evte cinmu oflal ruceago vivja wug nel wejuhole nabika ratha juakeran akar darsufap. Nahur baz ofe pectevuv zojhujfot moug kutna sa kawuwig dar bumkaso sulmidap fub.",
+    "bio": "Suz jodutbiz neba cocla tabgarjo zuwazfa beodu dudrepe vomowe vinakdi ik tunwaji ko dazo. Aziksut jalgav fohevili loatehi zeflu la fiofehag fovitwuv jilafito no ceega noon asi mufmojew. Wifbi sifag ira recpiwfup vopu loji gic wuwocwor af dovra sutwo nupzadun nu rutefsud ifoetoco."
+  },
+  "apiKey": "3b361c9eadb9b15ec0f576807f8bcab062534936f1e755f2a3faf9f738795be5",
+  "currency": {
+    "code": "ETB",
+    "name": "Ethiopia Birr"
+  }
+}
