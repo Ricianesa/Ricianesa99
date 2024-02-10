@@ -1,0 +1,26 @@
+{
+  "name": "Esther Terry",
+  "age": 30,
+  "address": {
+    "street": "Fuhut Highway",
+    "city": "Jiwpinic",
+    "state": "MT",
+    "zip": "20465"
+  },
+  "contact": {
+    "phone": "(708) 527-7579",
+    "servicePhone": "800762673"
+  },
+  "birthday": "1995-09-06T00:32:47.142Z",
+  "ip": "88.211.24.85",
+  "foo": "bar",
+  "profile": {
+    "about": "Jeh heb zaujha heho fi robotme oninid ge udahut nevarwak avuwifog oji ta sogumwa kever. Juzurka ge ipuhje nu mutasfa tor rocbid ihvedum beciaco og higfezas odu biveci mascamuza wuaci matedi duiw. Uloisi to ve pip hin selivo rifwas ru wag non tacboh sibuvi zelopwo avesa ariujo hep kubew tu. Ogunez faphuema fig masurku ama niewuco jelov wuvu kef wob te dovfe jieca babza dezo bo.",
+    "bio": "Joricgop igo ik lufutuj jehemkaf tebi or eb wusa zifelru bih we pi ub hi aneekeop piudep icoduad. Dedim feke goco hij ma fet canopi hersuozu tuki zuwlulmi jupgev he kagi cebir ziviwihi. Zi upolaogu egnod coecohez wif ja jesu dev dovalid ucivov zop bianzez zejzac coobu. Ofu wehwef ku anoota ommoc misnil bisu ibidu lepat wiz wuonu kaco zeezle kaejufuf. Pamegkin umezob dihafora zevipmed aciwupcom uj biwdu moufo tiosazi jubojon hiv mokzu zac butlafed dubvauce."
+  },
+  "apiKey": "2f1eebf79413bbaae1584d12932ab5f783249281a4d24ca61765d8d25abf0af8",
+  "currency": {
+    "code": "KES",
+    "name": "Kenya Shilling"
+  }
+}
