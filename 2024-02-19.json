@@ -1,0 +1,26 @@
+{
+  "name": "Jose Townsend",
+  "age": 46,
+  "address": {
+    "street": "Celzel Square",
+    "city": "Ijoipcaf",
+    "state": "TN",
+    "zip": "70910"
+  },
+  "contact": {
+    "phone": "(976) 648-2171",
+    "servicePhone": "800947217"
+  },
+  "birthday": "1968-12-07T21:03:52.017Z",
+  "ip": "73.173.148.137",
+  "foo": "bar",
+  "profile": {
+    "about": "Wij pah heacsa cunin re aphuf ucuguru vethe ofihoz vuhgu sojguz zupruuha zigepkeg wuensiw. Eceto neszed las ramupa pemitog sefe zompa fafpof wezu de juh ze wad reviih mod di kuzlefu. Sih efuok selakik divuor nic at ujonucu bib pufagma arac umevum usabe ecfoj pab.",
+    "bio": "Noude tu gohip helabfe supolca bom mopuci demevhaz fagaroce ve et mo uwvub zad ulobuz bat mis. Nonarna wuwamo vigci ja adcawu gofso buikcoc tat coobeli bifpu orobahu upobubmob on nouwgu nuwenvum fiecauc. Motko epjivni ek ar zevjubo ihgin fe aneazu lutwi sokcih wamakidad ketibi."
+  },
+  "apiKey": "ccba181aa47c06f7d6462663b4f2c1fa8728928fdc4a0f8cd172ec888b48f88e",
+  "currency": {
+    "code": "IDR",
+    "name": "Indonesia Rupiah"
+  }
+}
