@@ -1,0 +1,26 @@
+{
+  "name": "Gary Griffin",
+  "age": 20,
+  "address": {
+    "street": "Naus Street",
+    "city": "Counura",
+    "state": "PA",
+    "zip": "02092"
+  },
+  "contact": {
+    "phone": "(950) 432-7666",
+    "servicePhone": "800798762"
+  },
+  "birthday": "1968-09-06T00:11:25.142Z",
+  "ip": "77.173.98.214",
+  "foo": "bar",
+  "profile": {
+    "about": "Fav iz uzi oze ivodi geopa juj so kawasir iseuv erip ihjum efa por kuve vafdoc ure. Zojcos sa sado hofler led vucri kamcinho go raopu tesevap ebutelo pojim. Uhtomwit afjo beaho jewudi roneb ujdamim baavuen ulbot suak get fegme gietwu moareke.",
+    "bio": "Nagrec mezmav vuw turucum mauviwut karagil fujag hev arso fucine conle icne. Ciafto gu ti hekav tisu hellugitu afu cut alaiz tijidalu riwipgev niosmot ved rifidtih rigehni. Eju kufofoj reecu cufuril kipop kade gi avo caawso zop ala bugzuhe dohih hidenfu mizogu."
+  },
+  "apiKey": "fa2b6902f630a595456722d526250cfdc1f156c7e29edefc2dce987970c7415c",
+  "currency": {
+    "code": "TVD",
+    "name": "Tuvalu Dollar"
+  }
+}
