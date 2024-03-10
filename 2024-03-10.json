@@ -1,0 +1,26 @@
+{
+  "name": "Johnny Gardner",
+  "age": 30,
+  "address": {
+    "street": "Niga Plaza",
+    "city": "Zoegbo",
+    "state": "IL",
+    "zip": "98147"
+  },
+  "contact": {
+    "phone": "(335) 543-3146",
+    "servicePhone": "800123619"
+  },
+  "birthday": "1980-07-23T11:53:51.888Z",
+  "ip": "209.204.245.35",
+  "foo": "bar",
+  "profile": {
+    "about": "Ticor sim lipli mezos vu ifpot lacur kiun peh nefhijusu mesbiret mar na wec suus sukegfa aw jogokih. Zunjuwsaw rivlali jo ligu mudvufi kitubok wan ovi sehi sob ircozzak wul wetsir sa tuudizot. Biczof uhe ocmuc idkuz kigsepde koteosu iwopa wocjip ra momcaze cuakufaz oneluses inononbi vifusud guejiki nubfe ofocajaf. Em iwhi depde goda falho dam sikus aj hup pif te purjisa ega dawvakiz hamewo houcpi foukuba.",
+    "bio": "Ju cocse sahanpa mun ekwibruj za ureapoaju podognuz douwo marlazso kenpu cikifo vof. Zemak ceni mefiksuf da od maccijit nekekuin lakluk mufduk rofuz egujujma rud upcewpu oslurum zecu gedti jibov uh. Sus za mubaglo eruku legadi sikozud zuwijro rehtomfiz meta zaaf ugjopne atiolbu doepupe idinas wunilu sucko tevucru. Zahuseoni er obona sa riroew ricaw faluc bobki rehismun jiwasfo ku dufol. Arirefpap vownina irdum go vocset wek gejlibpu hef joejge alwawho uhe metroec ti rin uljaf heczi wibbup atobe."
+  },
+  "apiKey": "d060dc71536b5f6fe2709aba97dfe8609b8503f2092713e3ba46120ab4e087fa",
+  "currency": {
+    "code": "ILS",
+    "name": "Israel Shekel"
+  }
+}
