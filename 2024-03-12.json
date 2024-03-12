@@ -1,0 +1,26 @@
+{
+  "name": "Mabel Frank",
+  "age": 41,
+  "address": {
+    "street": "Hukeme Highway",
+    "city": "Baloca",
+    "state": "RI",
+    "zip": "24142"
+  },
+  "contact": {
+    "phone": "(524) 754-4313",
+    "servicePhone": "800567858"
+  },
+  "birthday": "1991-06-27T05:20:27.544Z",
+  "ip": "228.17.75.6",
+  "foo": "bar",
+  "profile": {
+    "about": "Nebpugaco lar zege dam aszo cajmacbu mu buwej kefliwut bonuvzaj oframodi jej. Duzu otjew va hefme ruckasbuw tigil ha hu usger vabiefo sotepi sam es hew. God lusfaspe dezge lieca bulzukbe vazli beshuvav tooviz upabe kof kid gutzerud we di rodseji. Po cupif tibupel kik hidza nizfaki ribdi ugigat ko oju edfeg kenhe.",
+    "bio": "Si luig cek nicuheb zugunan foigpo wahcev wisiz sutit lohas zoni kezizopi alsac casnidmis. Gug vejemepe tagisul gugpup mabaf ojegaime nig okolajade lakat alipi jup fe lapesol lov zo gu. Ownil pomej tiho damboh hejevfo minni wum nerewlu igupi fanrov duka ulawho musjag vojuc ho."
+  },
+  "apiKey": "b9af1189e1578315c5cfd89ddf94d83a30c338ace5c3a04f04956a0a89adfa26",
+  "currency": {
+    "code": "IMP",
+    "name": "Isle of Man Pound"
+  }
+}
