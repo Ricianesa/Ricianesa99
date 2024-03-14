@@ -1,0 +1,26 @@
+{
+  "name": "Julia Ward",
+  "age": 45,
+  "address": {
+    "street": "Tagwi Glen",
+    "city": "Cuglipe",
+    "state": "MS",
+    "zip": "52090"
+  },
+  "contact": {
+    "phone": "(720) 831-6036",
+    "servicePhone": "800993371"
+  },
+  "birthday": "1967-06-19T10:12:09.023Z",
+  "ip": "171.120.217.223",
+  "foo": "bar",
+  "profile": {
+    "about": "Jamsicpam imhig odge eclot daksorne acsijoj fu tijve mudo kuklof ivopiota nonowteh ca faggerfiv. Jib ufsu kagta vadag cag hejavaf rekliz fofbalda cofki rak carwelag fakpiho vulokpug el ul beemsu gi focutifah. Kofku da lomjagum wo li siaki bamiba kedsaz dige noci mosperib amude poj na. Pi loner li if okpohso fepaga tarmuzmev nerweb pan termil inge ravdudi cu ho so tombe. Kegbebas ocvuga howotpo fuj farojci bowifica minankis va jebiawu zuoc et fampedu sig biketu. Vipjuf ura hufewot go faorazat icrobas eni nife be vus fuhba uzino esoj vipuhfov uva tasuhmu pezpat.",
+    "bio": "Rabi culahid ahu caz gal gutiv ule hebpi ban vo lasukar nevbuope desvigu hemwof. Kikefuhus ufne lopude gukpi umgi zor du wol ulavo ofebi waheko epkefgoj zinvakboc ze. Lo utaucwi lebuj tofijre deku topocoz buvgebut oztit lol lufog tidudaw tu jejava parohke usdi."
+  },
+  "apiKey": "5bfb9f28d5f668a79bbf879c26d2d727c1fd50ec48bcb7c9583f530d91504291",
+  "currency": {
+    "code": "BWP",
+    "name": "Botswana Pula"
+  }
+}
