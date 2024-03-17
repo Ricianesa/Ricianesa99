@@ -1,0 +1,26 @@
+{
+  "name": "Charlotte Evans",
+  "age": 30,
+  "address": {
+    "street": "Mogfi Square",
+    "city": "Luparu",
+    "state": "MS",
+    "zip": "86812"
+  },
+  "contact": {
+    "phone": "(700) 325-8704",
+    "servicePhone": "800548397"
+  },
+  "birthday": "1964-08-14T02:19:34.603Z",
+  "ip": "128.99.202.220",
+  "foo": "bar",
+  "profile": {
+    "about": "Nuna zeddu hurwazwa ezuvitsaw mitwo iro akiliuzi sugta nupep mak zorrulo zehovocu. Puodgo zobojud ho biliver ade higsupipu agroh ajwu alipo je we tolvu tok vikdetruh zatremas cicufoz lucomor. Nulico virezriw vosbeb wekouda ra rotuw ikuec dewpo ber reloznip riffevna takkel. Gepahzep odha af som tor igomagab fije haz diddejwo govimuh pujulicit aceniv rifge.",
+    "bio": "Jil zo bazwum sefku ahhi as ifki fo olo loof ji ito jimwos habemzap corof olopogre. Oheolunu pamke uvici non op zo tes fev saz mid gofim ohidi gecbu sigupu bes limuj zevecu muwcamtec. Wiwlacer awazoku ad peleb si locutivuj ci rogoj ojud cour dueplak kasuh ot fif."
+  },
+  "apiKey": "26aa95a7b7599fdcd2a872ac553e39f82fa6d388c1a6c0eaef74eccfb5a37033",
+  "currency": {
+    "code": "COP",
+    "name": "Colombia Peso"
+  }
+}
