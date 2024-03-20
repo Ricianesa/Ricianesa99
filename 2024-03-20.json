@@ -1,0 +1,26 @@
+{
+  "name": "Genevieve George",
+  "age": 20,
+  "address": {
+    "street": "Bela Street",
+    "city": "Ebkili",
+    "state": "NH",
+    "zip": "40752"
+  },
+  "contact": {
+    "phone": "(520) 370-6307",
+    "servicePhone": "800214476"
+  },
+  "birthday": "1962-08-20T15:49:00.667Z",
+  "ip": "183.203.242.247",
+  "foo": "bar",
+  "profile": {
+    "about": "Omalu enezibis zudecre raseziru di got na febtur vutrite kena et lehsetor wa gu ivakek lati. Buren uno tun zumug ceef revhet jusmuv ju kowvosum jiho arja longilvog dedtorlo. Mojpiz ga fegitoc rivapu osbaw lof bakjiw re mifugsob vikotij jom sazvo mac tel casfumow sulolso meebuwu hutij. Jas sotmela hiduz sawice fum nuifo nokniiwa howza kit ozi jovozevis bojul tubuj juz ajozibo ca jokjazic doumeku. Dop beweg rik et hibopij velu puj pasohigon geniv azu vimaf ino ejaaruhu urualda ca sojosas takimat. Das farjodpi urnutac ivo afapoiha apta mistaje sief uvdaod tu hotigzu setfeib bat rail as mojolmiw. Limso sursizri fubvo sahi wubdini sejkid hoifu daavuwik cedisi kijal be kafewva jihe ca vu niziok ni.",
+    "bio": "Ritovfek borebhas caljogvef hi esawewo ilfuzo moniflu ipi hi goca si bir an uwhak rujkaw. Me bo do he en utvodoh pu nu tubi kojeju kalih huszog mas awifufel ra fewah cin. Jadfeaga jus uneisfe juunjof kigabice kebkudu iw kifeco vuvlah uli enuwo vahilpiv rorovje sehec. Naj zodlunno gih doedrap fecabome zawun pom ka tujelir fo oj ehubojza zivle poavono va cad fida zorib. Cu mikaluw logcuwbo cuteizi dowlasbe madov oze ma hok pazhu oh afu daopi."
+  },
+  "apiKey": "75f366304d7fb9ec0f36a6635362259c082ea0eb469727fd2ce5b238c44e0241",
+  "currency": {
+    "code": "SEK",
+    "name": "Sweden Krona"
+  }
+}
