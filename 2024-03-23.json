@@ -1,0 +1,26 @@
+{
+  "name": "Nathan Reeves",
+  "age": 40,
+  "address": {
+    "street": "Olive Trail",
+    "city": "Pilicgo",
+    "state": "IL",
+    "zip": "51175"
+  },
+  "contact": {
+    "phone": "(862) 602-8910",
+    "servicePhone": "800584911"
+  },
+  "birthday": "2004-09-06T02:29:45.620Z",
+  "ip": "66.26.61.122",
+  "foo": "bar",
+  "profile": {
+    "about": "Gacavga geecma nobip mura til aturde canugvot gab puud ma oj gaktenan cabto. Pinidti ivcu me bigugam piziba dilon wipbaca wac gapak emlem iniren secuca ahu fu firde kiut bubtu ki. Anovofon azoumcep paho lofatuwo usir pe dofdo wa bejeshef wi zicwahowa rahuc eguuza gu woz irwi nushul uf. Vuho ul onwak ma fulfeho ki acze piwe luev sof fefik lifinne. Po juzme dorbu un cod wocugah fac vulmoke kicteculu osozu etumuf feer levuhnuw ri. Ofi rewpob er nolehik kagu uhu ogti zir hezzoh diupu tizilag kew ihdi li fatto. Kogheha fi ackinluc lebad futrepene towazi su vioko wa oveseuni cuseb movbufwoz nalenlam pubot lusavri acahagen birapic galo.",
+    "bio": "Ha gusri nu hatpona amu pelli az bo hawfav kemudu tobrezwel ridous. Be masromun ova gekijhir el diug ragidi fuvkitiw une ikotefac bip umevopil. Fu bubac oheinoer buc mebmehin jibuh se gewes rukef cigninusa ariiku ne evzozzip cep jutemo."
+  },
+  "apiKey": "4bdbdbaa8da68db5d3e81f903cd0d18f6f800076f22928d7429fd9f93985bfad",
+  "currency": {
+    "code": "MOP",
+    "name": "Macau Pataca"
+  }
+}
