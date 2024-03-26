@@ -1,0 +1,26 @@
+{
+  "name": "Jesse Reese",
+  "age": 64,
+  "address": {
+    "street": "Matac Terrace",
+    "city": "Kicenab",
+    "state": "AZ",
+    "zip": "53423"
+  },
+  "contact": {
+    "phone": "(778) 781-8139",
+    "servicePhone": "800728121"
+  },
+  "birthday": "1982-03-14T10:39:00.233Z",
+  "ip": "37.149.167.15",
+  "foo": "bar",
+  "profile": {
+    "about": "Sa iniro kopluci givnuj poohe elountow okuje waleimi miparij wihlat owzekot wutel wa da. Vufa ecco kaja giwgewah lot lo abmip ef subinsej bu udeli oponu hifot. Givucud jigavsu iwzo gi pamon bavjemcef suwidoseg bu am rabonusi jonzaov ha ner ida tave havvaero.",
+    "bio": "Ce heja lunpes tusaboh ba erbi tedagpal pomirdog lodi biped dim uciof vozzuita. Fe afemijrar duklace fam codumdet maiwiusa azu te fikwo lipor vel rifab osgaav subap wu tu lo. Ogoawo piwu ril fuzna kudpom ubnizo ero ilerebwo dad huoha tussi zigepije."
+  },
+  "apiKey": "1d312609506b3301a4dec843e996753ba182131ef571a3cf56d4326903b5a345",
+  "currency": {
+    "code": "BZD",
+    "name": "Belize Dollar"
+  }
+}
