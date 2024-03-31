@@ -1,0 +1,26 @@
+{
+  "name": "Joe Berry",
+  "age": 48,
+  "address": {
+    "street": "Mobit Pass",
+    "city": "Vunebev",
+    "state": "NE",
+    "zip": "83119"
+  },
+  "contact": {
+    "phone": "(817) 706-6813",
+    "servicePhone": "800831275"
+  },
+  "birthday": "1994-01-28T05:28:08.142Z",
+  "ip": "186.77.215.157",
+  "foo": "bar",
+  "profile": {
+    "about": "We zeballud bap lauv waw naz rorol epa li ruk abadik jakodfod ogpi ihreh nih gaale. Kuhugfud bopiv te oggo disalzeh mufroof elasuduv wil ti ij vuijenom vameet tefgoz epegeh onsow. Wu zomakut mi wepga fufwad huci zeljazah lepuszag luwudhe jup miezage noshuwnu unsa isvevri suvet.",
+    "bio": "Tonopo mi jizwiwma urcakul ecusuum sijawle boka pewijbew fot pedgurhed wojogho vow gu boter jazoj ranu uhilaguf nihmuwje. Guce uhubevbi uhkaki zevni jobeva rul zivo sondu co fugo afufi onu muj caaledev ovubu lurlibo. Cahhu vok dapih raw maki factu asinufrim hojo kokzen izu hiljuno aj jutabzos palhe. Wavo pu discu zotdizab ap ton tunodmuj loede vi sulu mutawiti ohrawtir rugjut. Orofek pad eddez cofada gokariz jaov ne cibofu uvmifsi jis pibfuur edumier vuh."
+  },
+  "apiKey": "50f035d744a002a8a664d353936bccfdb4303424238ca85536ffc44ccd42927a",
+  "currency": {
+    "code": "FJD",
+    "name": "Fiji Dollar"
+  }
+}
