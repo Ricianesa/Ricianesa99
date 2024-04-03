@@ -1,0 +1,26 @@
+{
+  "name": "Jason Lucas",
+  "age": 23,
+  "address": {
+    "street": "Huib Grove",
+    "city": "Hokmozij",
+    "state": "MA",
+    "zip": "32444"
+  },
+  "contact": {
+    "phone": "(287) 324-5554",
+    "servicePhone": "800263754"
+  },
+  "birthday": "1984-07-08T01:58:45.469Z",
+  "ip": "84.124.184.107",
+  "foo": "bar",
+  "profile": {
+    "about": "Mijem kisinaw vohwa nop cip gohwi fa zepa sij mellol bassi tatof fuk. Kefjim lih on kug pefcibin wohibis vokvag zulijet digoh idizaseh vo ojiade ci. Nag ahela isdaac biclutehi notauc otepuv zu paz kuzek vihebuuve od ejzet noavzu unetajbak. Ibka he ha fulva mipvaco usaubica assucez mewji mif vufeh zoti neati apupkal mejvej. Fugoz uf goeg ep utuju hulof rosiku cajur cumha uha rocpeksa lihi ki wukzawru fu. Giegodus navosejaw sijfoknel cuten bu hes wirug fumege mefi ivu afbusep jutod kulaaf alu. Mabit zauc okjiz fo onuz gormel fe hufuc ni lilic iwodihzit tanabrif wu.",
+    "bio": "Hucjop ceek abfo cezgo lucwuk vezcovoba seofvan zivpeh larsojni wahenihib lamrutozi terwe pitelojap waj gawune no wid es. Su sahjuj to bibte nu dow ceguk nenkuzifa rulfe vugpoci ag wek darud. Kup capkumuk alaifa hol bocbunkuj wev harrihlow puvu lirok lu oz he mozuset uzidec pevsisrow hinbej enoanipuk. Iva eti mojgokel nup icafofgi vugmi ja va lewouz guhbol fu pampooh aguij juuli dor."
+  },
+  "apiKey": "3f16818dc2d1e351cd36bf1dc6324a6494f7aadd4b025bb032d12ee46a8935c9",
+  "currency": {
+    "code": "MXN",
+    "name": "Mexico Peso"
+  }
+}
